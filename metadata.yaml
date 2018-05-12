@@ -1,0 +1,44 @@
+_repo: Old-French-Fairy-Tales_30129
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sterrett, Virginia Frances
+    birthdate: 1900
+    deathdate: 1931
+    gutenberg_agent_id: '34392'
+    url: http://www.gutenberg.org/2009/agents/34392
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Frances_Sterret
+covers:
+- cover_type: archival
+  image_path: 30129-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - Segur, Comtesse de
+    - De Ségur, Sophie, comtesse
+    - Ségur, Comtesse de
+    - Rostopchina, Sofiya Feodorovna
+    - Ségur, Sophie Rostopchine, comtesse de
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- France'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, French -- Translations into English'
+title: Old French Fairy Tales
+url: http://www.gutenberg.org/ebooks/30129
